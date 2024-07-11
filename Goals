@@ -1,0 +1,18 @@
+- Crear clases
+- Debemos implementar patrones de diseño (Todos los posibles)
+- Usamos metodos
+- Usamos clases
+- Usamos namespace
+- Usamos funciones
+- Usamos enums
+- Usamos typedefs
+- Usamos todos los paradigmas de programacion:
+    - POO
+    - Generico
+    - Concurrente
+- Uso apropiado de la libreria estandard.
+- Utilizar principios de abstraccion.
+- Hacer uso de la separacion de intereses.
+- Hacer uso del acoplamiento y desacoplamiento.
+- Priorizar la cohesion.
+- Documentacion del README.md
